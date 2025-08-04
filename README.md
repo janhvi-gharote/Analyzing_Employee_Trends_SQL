@@ -14,5 +14,5 @@ I applied SQL to explore the dataset and answer important business questions to 
 - Analyzed possible factors influencing attrition, such as age, education level, and job satisfaction  
 - Compared key metrics and aggregates across employee segments to highlight differences  
 - Identified high-performing and low-performing groups based on metrics like satisfaction and attrition  
-- Utilized SQL concepts such as JOINs, GROUP BY, HAVING, and CASE statements for advanced analysis  
+- Utilized SQL concepts such as GROUP BY, HAVING, and CASE statements for advanced analysis  
 - Structured and presented insights in a clear, concise manner suitable for leadership review
